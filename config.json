@@ -1,0 +1,9 @@
+{
+	"hosts": {
+		"any.server.here": 7
+	},
+	"gateway": "a.gateway.here",
+	"worsecrossbars_sims" : [
+		"worsecrossbars_sim.json"
+	]
+}
